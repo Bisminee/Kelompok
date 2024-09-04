@@ -1,7 +1,7 @@
 /**
  * Tugas01
  */
-public class Tugas01 {
+public class Dicky {
 
     public static void main(String[] args) {
         
